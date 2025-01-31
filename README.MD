@@ -7,7 +7,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/suzaneoliveira5/ebook-final" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -22,7 +22,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um titulo de ebook sobre o tema de finanças comportamentais, o ebook é do nicho de psicologia e o subnicho é finanças para mulheres.                                                                                                                                      |
-|  imagem  | criar imagem de mulher estudando e sentindo que está organizando seu dinheiro e crescendo na vida.
+|  imagem  | Criar imagem de mulher estudando e sentindo que está organizando seu dinheiro e crescendo na vida.
              
 
 
