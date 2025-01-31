@@ -23,7 +23,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um titulo de ebook sobre o tema de finanças comportamentais, o ebook é do nicho de psicologia e o subnicho é finanças para mulheres.                                                                                                                                      |
 |  imagem  | criar imagem de mulher estudando e sentindo que está organizando seu dinheiro e crescendo na vida.
-             |
+             
 
 
 
